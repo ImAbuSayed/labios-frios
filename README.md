@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-frios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios fríos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-frios/) |
+| **Get License** | [Request Licensing for Labios fríos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-frios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Labios fríos pero quemas al tocar
+> Mami en la disco tú me haces volar
+> Got me going crazy con tu caminar
+> Esta noche en la ciudad te voy a robar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
