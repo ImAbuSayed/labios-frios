@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-frios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Labios fríos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-frios/) |
+| **Get License** | [Official Music Licensing for Labios fríos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-frios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5ee6e6935fac319f22e4f81403577371c9423b8bdab48403a37e19ba90f8171f` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

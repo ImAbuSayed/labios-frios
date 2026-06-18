@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios fríos
+
+This log tracks the cryptographic history and versioning for the song **Labios fríos** (labios-frios).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:16:38.885573 | `v1` | `5ee6e6935fac319f22e4f81403577371c9423b8bdab48403a37e19ba90f8171f` | `114945b49404ad3e5c232ce3fd370d1c00b64cd9954d342270e3d8e863db814c` | `2026-06-18_labios-frios-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
